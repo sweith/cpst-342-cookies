@@ -9,6 +9,7 @@ To Do: Fix vertical page cutoff/scrolling issue
 
 Framework:
 https://getbootstrap.com/docs/4.3/examples/carousel/
+https://getbootstrap.com/docs/4.3/examples/starter-template/
 
 Components:
 https://getbootstrap.com/docs/4.4/components/alert
